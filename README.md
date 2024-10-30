@@ -11,10 +11,10 @@ This project leverages deep learning to classify images of dogs and cats. Using 
 * The dataset used can be found on Kaggle.
 
 # Libraries Used
-** TensorFlow
-** Keras
-** NumPy
-** Pandas
+* TensorFlow
+* Keras
+* NumPy
+* Pandas
 # Results
 The model achieves strong accuracy on the test set, demonstrating the effectiveness of CNNs in image classification tasks.
 
