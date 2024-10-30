@@ -8,7 +8,7 @@ This project leverages deep learning to classify images of dogs and cats. Using 
 * Model Architecture: The CNN architecture is fine-tuned to optimize performance on the Dogs vs Cats dataset.
 * Evaluation Metrics: Model accuracy, precision, and recall are used to evaluate the classification performance.
 # Dataset
-* The dataset used can be found on Kaggle.
+* The dataset used can be found on Kaggle(https://www.kaggle.com/datasets/salader/dogs-vs-cats).
 
 # Libraries Used
 * TensorFlow
